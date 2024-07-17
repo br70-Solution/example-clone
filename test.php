@@ -1,1 +1,1 @@
-<?php echo 'test clone VERSION 2'; ?>
+<?php echo 'test clone VERSION SCM '; ?>
